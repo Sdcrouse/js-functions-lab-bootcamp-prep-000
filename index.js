@@ -17,4 +17,7 @@ function happyHolidayTo(holiday, name) {
 
 // A little scary that I'm writing this next function the week before Mother's Day, which just HAPPENS to be the holiday that it's being tested with!
 
-function holidayCountdown
+function holidayCountdown(holiday, days) {
+  console.log(`It's ${days} days until ${holiday}! (More like 8, actually...)`)
+  return 
+}
